@@ -9,3 +9,5 @@ Cr 2 : Change color theme - Najib
 13/9/2020 Cr 4 : Sorting feature for booking history - Hakeem
 
 13/9/2020  Cr 5 : Passenger edit profile details - Najib
+
+20/9/2020 Cr 6 : Admin booking history sort function - Hakeem
