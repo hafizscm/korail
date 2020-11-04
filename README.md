@@ -15,3 +15,5 @@ Cr 2 : Change color theme - Najib
 20/9/2020 Cr 7 : Passenger past booking search function - Hakeem
 
 27/9/2020 Cr 8 : Admin sort passenger list function - Hakeem
+
+27/9/2020 Cr 9 : Admin search passenger list function - Hakeem
